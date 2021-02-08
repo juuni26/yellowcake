@@ -10,7 +10,7 @@ meta:
   title: Apa itu Kyoufun ?
   noindex: false
 ---
-Hi, selamat datang di **“kyoufun.com”** dan perkenalkan, aku Muhammad Haqqi sebagai author dan Junio akarda di sini sebagai partnerku dalam mengembangkan catatan digital ini.
+Hi, selamat datang di **“kyoufun.com”** dan perkenalkan, aku Muhammad Haqqi sebagai author dan Junio akarda di sini sebagai partnerku dalam mengembangkan website ini.
 
 Di web ini aku berusaha menulis apa yang aku rasakan terhadap lingkungan sekitarku, refleksi kehidupan, hobi, Keseharian, dan yang pastinya aplikasi apa yang telah aku pelajari di Universitas. Mungkin di sini aku akan mengembangkan Bahasa yang telah aku pahami seperti Inggris dan Jepang. Jadi mungkin temen-temen selain orang Indonesia bisa baca juga kali ya hehehehe.
 
